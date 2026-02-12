@@ -1,11 +1,9 @@
 ---
 name: declaration-drafting
-description: Create foundational documents that establish principles, articulate commitments,
-  and justify positions using the structure that made the Declaration of Independence
-  persuasive across centuries.
+description: Create foundational documents that establish principles, articulate commitments, and justify positions using the structure that made the Declaration of Independence persuasive across centuries.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - declaration-drafting
